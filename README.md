@@ -10,7 +10,7 @@
 ⚡ &nbsp;In my free time, I enjoy playing pool, lifting weights, baking, and cooking.\
 💬 &nbsp;Feel free to reach out if you'd like to collaborate or just have an interesting chat!\
 📫 &nbsp;Drop me an email at e1375678@u.nus.edu and I'll get back to you as soon as I can.\
-📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/162zaE7S3JJZRBrIQmlH5HQAu7J9vG3bj/) for more details about me—I'm always open to feedback and suggestions!
+📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1USfnvu0RMBaoi_Ro9ZakAYezlG1Xruuc/) for more details about me—I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Jav65/Jav65/master/assets/Night-Coding.gif" align="right"/>
 
