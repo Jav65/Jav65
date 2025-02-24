@@ -1,6 +1,6 @@
 <!-- ![Javier Enrique Wong Banner](https://raw.githubusercontent.com/Jav65/Jav65/master/assets/banner.jpg) -->
 
-<h2>Hey there! I'm Javier</h2><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2>Hey there! I'm Javier<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
