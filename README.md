@@ -1,6 +1,6 @@
 <!-- ![Javier Enrique Wong Banner](https://raw.githubusercontent.com/Jav65/Jav65/master/assets/banner.jpg) -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Javier</h2>
+<h2>Hey there! I'm Javier</h2><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -59,5 +59,5 @@
 <!-- <a href="https://www.javier.com"><img src="https://img.shields.io/badge/-javier.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/javier-enrique-wong"><img src="https://img.shields.io/badge/-Javier%20Enrique%20Wong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:e1375678@u.nus.edu"><img src="https://img.shields.io/badge/-e1375678@u.nus.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/javierenriquewong"><img src="https://img.shields.io/badge/-@javierenriquewong-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/javierenrique_06"><img src="https://img.shields.io/badge/-@javierenrique_06-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
